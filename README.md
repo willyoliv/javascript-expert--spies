@@ -26,7 +26,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/javascript-expert--spies.git
+git clone https://github.com/willyoliv/javascript-expert--spies.git
 cd javascript-expert--spies
 
 # Install dependencies
